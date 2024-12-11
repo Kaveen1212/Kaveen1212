@@ -1,7 +1,9 @@
-## Hi there 👋
+<div style="border: 2px solid black; padding: 10px; border-radius: 5px;">
+## Kaveen 
 
+I am a **Software Engineer** with expertise in **UI/UX Design**, **Software Testing**, and **API Development**. I specialize in creating user-friendly interfaces, automating tests with tools like Selenium (Java), and building efficient software solutions. With a passion for innovation and problem-solving, I continuously explore new technologies to enhance my skills and deliver impactful results.
+</div>
 
-**Kaveen1212/Kaveen1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
