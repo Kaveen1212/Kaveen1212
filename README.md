@@ -10,7 +10,8 @@ deliver impactful results.
 
 </pre>
 <hr>
-![GitHub Contribution Snake](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaveen1212&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
