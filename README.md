@@ -1,9 +1,9 @@
 <hr>
 
 <pre>
-## Kaveen
+<h2> Kaveen </h2>
 
-I am a **Software Engineer** with expertise in **UI/UX Design**, **Software Testing**, and <b>API Development</b>b>.<br> I specialize in creating user-friendly interfaces, automating tests with tools like Selenium (Java), and building efficient software solutions. With a passion for innovation and problem-solving, I continuously explore new technologies to enhance my skills and deliver impactful results.
+I am a **Software Engineer** with expertise in <b>UI/UX Design</b>, <b>Software Testing</b>, and <b>API Development</b>.<br> I specialize in creating user-friendly interfaces, automating tests with tools like Selenium (Java), and building <br> efficient software solutions. With a passion for innovation and problem-solving, I continuously explore new <br> technologies to enhance my skills and deliver impactful results.
 
 </pre>
 <hr>
