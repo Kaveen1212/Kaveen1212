@@ -1,5 +1,3 @@
-<hr>
-
 
 <h2> Kaveen </h2>
 
@@ -9,7 +7,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<br>
+
 
 ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
 <div>
