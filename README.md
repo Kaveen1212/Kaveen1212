@@ -10,6 +10,14 @@ deliver impactful results.
 
 <hr>
 
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
+</p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+<br>
+
 ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
 <div>
 <p>
