@@ -1,6 +1,6 @@
 <hr>
 
-<pre>
+
 <h2> Kaveen </h2>
 
 I am a <b>Software Engineer</b> with expertise in <b>UI/UX Design</b>, <b>Software Testing</b>, and <b>API Development</b>.I specialize in creating 
@@ -8,7 +8,6 @@ user-friendly interfaces, automating tests with tools like Selenium (Java), and 
 With a passion for innovation and problem-solving, I continuously explore new technologies to enhance my skills and 
 deliver impactful results.
 
-</pre>
 <hr>
 
 ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
