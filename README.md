@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Kaveen+Deshapriya;B+tech+Software+Technology;UI+UX+Design;Software+Development;Software+Testing;Fullstak+Development;API+Development;%40Kaveen1212">
 </p>
 <p align='center'>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="270" height="270"/></p>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="full" height="270"/></p>
 <hr>
 
 
