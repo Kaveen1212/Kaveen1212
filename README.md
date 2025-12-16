@@ -7,7 +7,7 @@
 
   <!-- Profile Image Card -->
   <td width="25%" valign="top">
-        <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
+        <img src="assets/ps%20kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
   </td>
   
 <!-- RIGHT: Your existing table/content -->
