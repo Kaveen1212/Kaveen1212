@@ -101,7 +101,6 @@
 
   </td>
 
-    <!-- RIGHT SIDEBAR -->
   <td width="20%" valign="top">
 
 <!-- 12 Achievements Card -->
