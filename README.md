@@ -50,7 +50,7 @@
           <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
         </h3>
         <p>
-          ![snake_gif](https://github.com/kaveen1212/kaveen1212/blob/output/github-snake-dark.svg)
+          ![snake gif](https://github.com/kaveen1212/kaveen1212/blob/output/github-snake-dark.svg)
         </p>
       </div>
     </td>
