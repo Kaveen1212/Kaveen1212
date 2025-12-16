@@ -58,7 +58,7 @@
   <td width="55%" valign="top">
       <!-- Contributions Section -->
       <h3>
-        <strong>1,761 contributions in the last year</strong>
+        <strong>1,066 contributions in the last year</strong>
         <span style="float: right;"><sub>2024</sub></span>
       </h3>
       <p>
