@@ -62,7 +62,7 @@
         <span style="float: right;"><sub>2024</sub></span>
       </h3>
       <p>
-        <img src="https://ghchart.rshah.org/Kaveen1212" width="100%" alt="Contribution Graph" />
+        <img src="https://ghchart.rshah.org/409ba5/Kaveen1212" width="100%" alt="Contribution Graph" style="background-color: #0d1117; padding: 10px; border-radius: 6px;" />
       </p>
 
   <br/>
