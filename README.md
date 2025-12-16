@@ -3,7 +3,7 @@
 <table>
   <tr>
     <!-- LEFT COLUMN: Profile Image -->
-    <td width="25%" valign="top">
+    <td width="30%" valign="top">
       <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
 
