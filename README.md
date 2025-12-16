@@ -8,6 +8,26 @@
 <!-- Profile Image Card -->
 <img src="assets/ps kaveen.png" width="10%" alt="Profile Picture" style="border-radius: 8px;" />
 
+<!-- About/Howdy Section -->
+<table>
+  <tr>
+    <td>
+      <p><sub>chriscoyier / README.md</sub></p>
+      <h2>Howdy!</h2>
+      <p>
+        I'm an aspiring web developer and designer. I'm the co-founder of <strong>CodePen</strong>, a playground for front-end web development.
+        It's a social development environment for front-end designers and developers. I run the site <strong>CSS-Tricks</strong> from
+        2007-2022, where I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>,
+        a show about... you guessed it, building websites.
+      </p>
+      <p>
+        I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>:
+        <em>The Greatest CSS Tricks Vol I</em>, <em>Practical SVG</em>, and <em>Digging Into WordPress</em>.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br/><br/>
 
 <!-- Achievements Card -->
@@ -29,27 +49,6 @@
       </p>
       <p align="center">
         <sub>💎 Send feedback</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<!-- About/Howdy Section -->
-<table>
-  <tr>
-    <td>
-      <p><sub>chriscoyier / README.md</sub></p>
-      <h2>Howdy!</h2>
-      <p>
-        I'm an aspiring web developer and designer. I'm the co-founder of <strong>CodePen</strong>, a playground for front-end web development.
-        It's a social development environment for front-end designers and developers. I run the site <strong>CSS-Tricks</strong> from
-        2007-2022, where I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>,
-        a show about... you guessed it, building websites.
-      </p>
-      <p>
-        I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>:
-        <em>The Greatest CSS Tricks Vol I</em>, <em>Practical SVG</em>, and <em>Digging Into WordPress</em>.
       </p>
     </td>
   </tr>
