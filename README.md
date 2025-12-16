@@ -50,7 +50,7 @@
           <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
         </h3>
         <p>
-          <img src="https://ghchart.rshah.org/409ba5/Kaveen1212" width="100%" alt="Contribution Graph" style="border-radius: 6px;" />
+          ![snake_gif](https://github.com/kaveen1212/kaveen1212/blob/output/github-snake-dark.svg)
         </p>
       </div>
     </td>
