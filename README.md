@@ -1,155 +1,89 @@
-<div align="center">
-
-# 👋 Hi, I'm Kaveen
-
-### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
-
-</div>
-
----
-
 <table>
   <tr>
-    <!-- LEFT COLUMN -->
-    <td width="35%" valign="top">
-
-<!-- Profile Image -->
-<div align="center">
-  <img src="assets/ps kaveen.png" width="100%" style="border-radius: 10px;" alt="Kaveen Profile" />
-</div>
-
-<br/>
-
-<!-- Achievements Section -->
-<div>
-  <h3>🏆 Achievements</h3>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/achievement-quickdraw.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-pull-shark.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-yolo.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-starstruck.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <br/>
-    <img src="https://github.com/user-attachments/assets/achievement-pair-extraordinaire.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-galaxy-brain.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-public-sponsor.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-    <img src="https://github.com/user-attachments/assets/achievement-arctic-code-vault.png" width="60" height="60" onerror="this.src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github-logo.png'" />
-  </p>
-  <p align="center">
-    <sub>🎯 12 Total Achievements Unlocked</sub>
-  </p>
-</div>
-
-<br/>
-
-<!-- Contact Links -->
-<div>
-  <h3>📫 Connect With Me</h3>
-  <p>
-    🌐 <strong>Portfolio:</strong> <a href="https://yourwebsite.com">yourwebsite.com</a><br/>
-    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kaveen">@kaveen</a><br/>
-    🐦 <strong>Twitter:</strong> <a href="https://twitter.com/kaveen">@kaveen</a><br/>
-    ✉️ <strong>Email:</strong> <a href="mailto:kaveen@example.com">kaveen@example.com</a>
-  </p>
-</div>
-
+    <td width="25%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
+      <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
-
-    <!-- RIGHT COLUMN -->
-    <td width="65%" valign="top">
-
-<!-- About Section -->
-<div>
-  <p><sub>Kaveen1212 / README.md</sub></p>
-  <h2>Howdy! 👋</h2>
-
-  <p>
-    I'm an aspiring <strong>web developer</strong> and <strong>designer</strong>. I'm a founder of <strong>CoderHub</strong>, a playground for front-end web development. It's a social development environment for front-end designers and developers. I run the site <strong>CSS-Tricks</strong> from 2007-2022, where I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>, a show about... you guessed it, building websites.
-  </p>
-
-  <p>
-    I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>: <strong>The Greatest CSS Tricks Vol I</strong>, <strong>Practical SVG</strong>, and <strong>Digging Into WordPress</strong>.
-  </p>
-
-  <p>
-    <strong>🎯 Current Focus:</strong><br/>
-    • Building modern, responsive web applications<br/>
-    • Learning advanced React patterns and Next.js<br/>
-    • Contributing to open-source projects<br/>
-    • Exploring UI/UX design principles
-  </p>
-
-  <p>
-    <strong>💻 Tech Stack:</strong><br/>
-    JavaScript • TypeScript • React • Node.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Git • MongoDB • PostgreSQL
-  </p>
-</div>
-
-<br/>
-
-<!-- Contributions Graph -->
-<div>
-  <h3>📊 Contribution Activity</h3>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveen1212&theme=react-dark&hide_border=true&area=true&custom_title=1,390%20contributions%20in%20the%20last%20year" width="100%" alt="Contribution Graph" />
-  </p>
-  <p align="right">
-    <sub><strong>2024</strong></sub>
-  </p>
-</div>
-
-<br/>
-
-<!-- Popular Repositories -->
-<div>
-  <h3>📌 Popular Repositories</h3>
-  <p>
-    <a href="https://github.com/Kaveen1212/repo1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=Kaveen1212&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
-    </a>
-    <a href="https://github.com/Kaveen1212/repo2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
-    </a>
-  </p>
-  <p>
-    <sub>⭐ 455 &nbsp;&nbsp; 🔄 127</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <sub>⭐ 293 &nbsp;&nbsp; 🔄 71</sub>
-  </p>
-</div>
-
+    
+  <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
+      <h2 style="color: #c9d1d9;">Howdy!</h2>
+      <p style="color: #c9d1d9;">
+        R&D and AI Engineer at CodeGen International, building intelligent, production-ready AI systems.
+      </p>
+      <p style="color: #c9d1d9;">
+        I specialize in agentic AI architectures including ReAct Agents, Agentic RAG, Deep Agents, and Deep Learning (CNN) models, using LangChain, LangGraph, FastAPI, and PyTorch. My work focuses on turning cutting-edge research into scalable real-world solutions.
+      </p>
+      <p style="color: #c9d1d9;">
+      With a strong passion for UI/UX, I also develop frontend applications using React and Flutter, ensuring AI systems are intuitive and user-centric.
+      </p>
+    <p style="color: #c9d1d9;">
+      I’ve worked on impactful projects such as Auto Care Voice Agent, Agronomist AI Agent, and AI Research Agent, operating at the intersection of AI research, engineering, and product design.
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<table>
+  <tr>
+    <!-- LEFT SIDEBAR: Achievements -->
+    <td width="25%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+      <h3 style="color: #c9d1d9;">Achievements</h3>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
+      </p>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" />
+      </p>
+      <p align="center">
+        <sub style="color: #8b949e;">💎 Send feedback</sub>
+      </p>
+    </td>
 
-### 📈 GitHub Stats
+  <td width="75%" valign="top">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaveen1212&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveen1212&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" />
-</p>
+  <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
+        <h3 style="color: #c9d1d9;">
+          <strong>1,390 contributions in the last year</strong>
+          <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
+        </h3>
+        <p>
+          <img src="https://ghchart.rshah.org/409ba5/Kaveen1212" width="100%" alt="Contribution Graph" style="border-radius: 6px;" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveen1212&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaveen1212&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</p>
-
-### 📊 Profile Views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Kaveen1212&style=for-the-badge&color=blueviolet" />
-</p>
-
----
-
-<sub>💡 This README was crafted with care. Feel free to fork and customize it!</sub>
-
-</div>
+<div style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+        <h3 style="color: #c9d1d9;">Popular repositories</h3>
+        <table>
+          <tr>
+            <td width="48%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
+              <h4 style="color: #58a6ff; font-size: 14px;">
+                <span style="color: #c9d1d9;">📁 My-Grunt-Boilerplate</span>
+                <span style="background-color: #f1e05a; color: #000; padding: 2px 6px; border-radius: 10px; font-size: 10px; margin-left: 8px;">Public</span>
+              </h4>
+              <p><sub style="color: #8b949e;">Bright Like the blox.</sub></p>
+              <br/>
+              <p>
+                <sub style="color: #8b949e;">⭐ 455 &nbsp;&nbsp; 🔄 127</sub>
+              </p>
+            </td>
+            <td width="4%"></td>
+            <td width="48%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
+              <h4 style="color: #58a6ff; font-size: 14px;">
+                <span style="color: #c9d1d9;">📁 Simple-Offline-Site</span>
+                <span style="background-color: #f1e05a; color: #000; padding: 2px 6px; border-radius: 10px; font-size: 10px; margin-left: 8px;">Public</span>
+              </h4>
+              <p><sub style="color: #8b949e;">Bright Like the blox.</sub></p>
+              <br/>
+              <p>
+                <sub style="color: #8b949e;">⭐ 293 &nbsp;&nbsp; 🔄 71</sub>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </div>
