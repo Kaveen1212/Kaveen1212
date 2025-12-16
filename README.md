@@ -1,13 +1,9 @@
-<!-- GitHub Profile README - Inspired by Chris Coyier's Design -->
-
 <table>
   <tr>
-    <!-- LEFT COLUMN: Profile Image -->
     <td width="25%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
       <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
-
-    <!-- RIGHT COLUMN: Howdy Section -->
+    
   <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
       <p><sub style="color: #8b949e;">chriscoyier / README.md</sub></p>
       <h2 style="color: #c9d1d9;">Howdy!</h2>
@@ -27,7 +23,6 @@
 
 <br/>
 
-<!-- SECOND ROW: Three Columns -->
 <table>
   <tr>
     <!-- LEFT SIDEBAR: Achievements -->
@@ -54,10 +49,9 @@
       </p>
     </td>
 
-    <!-- MIDDLE COLUMN: Contributions + Popular Repositories -->
   <td width="55%" valign="top">
-      <!-- Contributions Section -->
-      <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
+
+  <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
         <h3 style="color: #c9d1d9;">
           <strong>1,390 contributions in the last year</strong>
           <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
@@ -67,12 +61,11 @@
         </p>
       </div>
 
-      <!-- Popular Repositories Section -->
   <div style="background-color: #161b22; padding: 16px; border-radius: 6px;">
         <h3 style="color: #c9d1d9;">Popular repositories</h3>
         <table>
           <tr>
-            <td width="48%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
+            <td width="78%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
               <h4 style="color: #58a6ff; font-size: 14px;">
                 <span style="color: #c9d1d9;">📁 My-Grunt-Boilerplate</span>
                 <span style="background-color: #f1e05a; color: #000; padding: 2px 6px; border-radius: 10px; font-size: 10px; margin-left: 8px;">Public</span>
