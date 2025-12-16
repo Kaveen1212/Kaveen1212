@@ -8,10 +8,10 @@
       <p><sub style="color: #8b949e;">chriscoyier / README.md</sub></p>
       <h2 style="color: #c9d1d9;">Howdy!</h2>
       <p style="color: #c9d1d9;">
-        I'm an aspiring web developer and designer. I'm the co-founder of <strong>CodePen</strong>, a playground for front-end web development.
-        It's a social development environment for front-end designers and developers. I run the site <strong>CSS-Tricks</strong> from
-        2007-2022, where I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>,
-        a show about... you guessed it, building websites.
+        R&D and AI Engineer at CodeGen International, building intelligent, production-ready AI systems.
+      </p>
+      <p style="color: #c9d1d9;">
+        I specialize in agentic AI architectures including ReAct Agents, Agentic RAG, Deep Agents, and Deep Learning (CNN) models, using LangChain, LangGraph, FastAPI, and PyTorch. My work focuses on turning cutting-edge research into scalable real-world solutions.
       </p>
       <p style="color: #c9d1d9;">
         I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>:
