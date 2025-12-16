@@ -65,7 +65,7 @@
         <h3 style="color: #c9d1d9;">Popular repositories</h3>
         <table>
           <tr>
-            <td width="78%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
+            <td width="48%" valign="top" style="background-color: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d;">
               <h4 style="color: #58a6ff; font-size: 14px;">
                 <span style="color: #c9d1d9;">📁 My-Grunt-Boilerplate</span>
                 <span style="background-color: #f1e05a; color: #000; padding: 2px 6px; border-radius: 10px; font-size: 10px; margin-left: 8px;">Public</span>
