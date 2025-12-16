@@ -26,7 +26,9 @@
         a show about... you guessed it, building websites.
       </p>
       <p>
-        I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>:
+        I've spoken at <strong>events</strong> and given <strong>workshops</strong> 
+        <br/>
+        all over the world. I've also written <strong>three books</strong>:
         <em>The Greatest CSS Tricks Vol I</em>, <em>Practical SVG</em>, and <em>Digging Into WordPress</em>.
       </p>
     </td>
