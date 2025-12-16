@@ -37,14 +37,6 @@
         <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" />
       </p>
       <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault" />
-      </p>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" height="60" alt="Public Sponsor" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" />
-      </p>
-      <p align="center">
         <sub style="color: #8b949e;">💎 Send feedback</sub>
       </p>
     </td>
