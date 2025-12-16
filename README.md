@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- Achievements Card -->
 <table>
