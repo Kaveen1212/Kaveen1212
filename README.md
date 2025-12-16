@@ -62,7 +62,7 @@
         <span style="float: right;"><sub>2024</sub></span>
       </h3>
       <p>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveen1212&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true&hide_border=true&height=200" width="100%" alt="Contribution Graph" />
+        <img src="https://ghchart.rshah.org/Kaveen1212" width="100%" alt="Contribution Graph" />
       </p>
     </td>
   </tr>
