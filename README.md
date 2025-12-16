@@ -34,10 +34,6 @@
   </tr>
 </table>
 
-    </td>
-
-    <!-- MAIN CONTENT AREA -->
-    <td width="50%" valign="top">
 
 <!-- About/Howdy Section -->
 <table>
