@@ -14,8 +14,10 @@
         I specialize in agentic AI architectures including ReAct Agents, Agentic RAG, Deep Agents, and Deep Learning (CNN) models, using LangChain, LangGraph, FastAPI, and PyTorch. My work focuses on turning cutting-edge research into scalable real-world solutions.
       </p>
       <p style="color: #c9d1d9;">
-        I've spoken at <strong>events</strong> and given <strong>workshops</strong> all over the world. I've also written <strong>three books</strong>:
-        <em>The Greatest CSS Tricks Vol I</em>, <em>Practical SVG</em>, and <em>Digging Into WordPress</em>.
+      With a strong passion for UI/UX, I also develop frontend applications using React and Flutter, ensuring AI systems are intuitive and user-centric.
+      </p>
+    <p style="color: #c9d1d9;">
+      I’ve worked on impactful projects such as Auto Care Voice Agent, Agronomist AI Agent, and AI Research Agent, operating at the intersection of AI research, engineering, and product design.
       </p>
     </td>
   </tr>
