@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <!-- LEFT COLUMN: Profile Image (matches Achievements width) -->
-    <td width="20%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
+    <!-- LEFT COLUMN: Profile Image -->
+    <td width="25%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
       <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
 
-    <!-- RIGHT COLUMN: Howdy Section (matches Contributions width) -->
-  <td width="80%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
+    <!-- RIGHT COLUMN: Howdy Section -->
+  <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
       <p><sub style="color: #8b949e;">chriscoyier / README.md</sub></p>
       <h2 style="color: #c9d1d9;">Howdy!</h2>
       <p style="color: #c9d1d9;">
@@ -27,11 +27,11 @@
 
 <br/>
 
-<!-- SECOND ROW: Two Columns (matching top row widths) -->
+<!-- SECOND ROW: Three Columns -->
 <table>
   <tr>
-    <!-- LEFT SIDEBAR: Achievements (20% to match image) -->
-    <td width="20%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+    <!-- LEFT SIDEBAR: Achievements -->
+    <td width="25%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
       <h3 style="color: #c9d1d9;">Achievements</h3>
       <p align="center">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
@@ -54,8 +54,8 @@
       </p>
     </td>
 
-    <!-- RIGHT COLUMN: Contributions + Popular Repositories (80% to match Howdy) -->
-  <td width="80%" valign="top">
+    <!-- MIDDLE COLUMN: Contributions + Popular Repositories -->
+  <td width="55%" valign="top">
       <!-- Contributions Section -->
       <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
         <h3 style="color: #c9d1d9;">
@@ -98,6 +98,30 @@
           </tr>
         </table>
       </div>
+    </td>
+
+    <!-- RIGHT SIDEBAR: 12 Achievements -->
+  <td width="20%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+      <h3 style="color: #c9d1d9;">12 Achievements</h3>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50" height="50" alt="Achievement 1" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" height="50" alt="Achievement 2" />
+      </p>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50" alt="Achievement 3" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50" alt="Achievement 4" />
+      </p>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50" height="50" alt="Achievement 5" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="50" height="50" alt="Achievement 6" />
+      </p>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="50" height="50" alt="Achievement 7" />
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" height="50" alt="Achievement 8" />
+      </p>
+      <p align="center">
+        <sub style="color: #8b949e;">💎 Send feedback</sub>
+      </p>
     </td>
   </tr>
 </table>
