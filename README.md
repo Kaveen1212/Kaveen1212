@@ -15,9 +15,14 @@
       <p><sub>chriscoyier / README.md</sub></p>
       <h2>Howdy!</h2>
       <p>
-        I'm an aspiring web developer and designer. I'm the co-founder of <strong>CodePen</strong>, a playground for front-end web development.
-        It's a social development environment for front-end designers and developers. I run the site <strong>CSS-Tricks</strong> from
-        2007-2022, where I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>,
+        I'm an aspiring web developer and designer. I'm the co-founder of <strong>CodePen</strong>,
+        <br/>
+        a playground for front-end web development. It's a social development environment for front-end
+        <br/>
+        designers and developers. I run the site <strong>CSS-Tricks</strong> from 2007-2022, where 
+        <br/>
+        I wrote about and taught people about making websites. I also have a podcast called <strong>ShopTalk</strong>,
+        <br/>
         a show about... you guessed it, building websites.
       </p>
       <p>
