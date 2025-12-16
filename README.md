@@ -3,7 +3,7 @@
 <table>
   <tr>
     <!-- LEFT SIDEBAR -->
-    <td width="30%" valign="top">
+    <td width="100%" valign="top">
 
 <!-- Profile Image Card -->
 <img src="assets/ps kaveen.png" width="10%" alt="Profile Picture" style="border-radius: 8px;" />
