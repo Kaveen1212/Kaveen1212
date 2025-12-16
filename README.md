@@ -1,7 +1,7 @@
 <table>
   <tr>
   
-  <td width="25%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
+  <td width="30%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
       <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
 
