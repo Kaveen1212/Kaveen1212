@@ -5,7 +5,6 @@
     </td>
     
   <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
-      <p><sub style="color: #8b949e;">chriscoyier / README.md</sub></p>
       <h2 style="color: #c9d1d9;">Howdy!</h2>
       <p style="color: #c9d1d9;">
         R&D and AI Engineer at CodeGen International, building intelligent, production-ready AI systems.
