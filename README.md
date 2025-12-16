@@ -4,8 +4,8 @@
 
 <!-- Top title (small like the screenshot) -->
 <p align="left">
-  <strong style="font-size:18px;">YOUR NAME</strong><br/>
-  <sub>@YOUR_USERNAME</sub>
+  <strong style="font-size:18px;">Kaveen Deshapriya</strong><br/>
+  <sub>@Kaveen1212</sub>
 </p>
 
 <!-- Main Grid -->
@@ -57,10 +57,7 @@
           <td>
             <p><strong>Links</strong></p>
             <ul>
-              <li>🌐 Website: <a href="https://your-site.com">your-site.com</a></li>
-              <li>💼 LinkedIn: <a href="https://linkedin.com/in/your-handle">@your-handle</a></li>
-              <li>🐦 X/Twitter: <a href="https://x.com/your-handle">@your-handle</a></li>
-              <li>✉️ Email: <a href="mailto:you@email.com">you@email.com</a></li>
+              <li>✉️ Email: <a href="mailto:kaveencdeshapriya@gmail.com">kaveencdeshapriya@gmail.com</a></li>
             </ul>
           </td>
         </tr>
@@ -75,23 +72,24 @@
       <table>
         <tr>
           <td>
-            <p><sub>YOUR_USERNAME / README.md</sub></p>
+            <p><sub>Kaveen1212 / README.md</sub></p>
             <h2>Howdy!</h2>
 
             <p>
-              I’m a <strong>web developer</strong> and <strong>designer</strong>. I build
-              modern web apps, UI systems, and tools that make development faster.
+              I'm a passionate <strong>full-stack developer</strong> and <strong>designer</strong> who loves building
+              innovative web applications and AI-powered solutions. I specialize in creating modern, 
+              user-friendly interfaces and scalable backend systems.
             </p>
 
             <p>
-              🧠 Interests: Front-end, Design Systems, Performance, DX<br/>
-              🛠️ Stack: React, Next.js, Node.js, Tailwind, TypeScript<br/>
-              📍 Location: Your City
+              🧠 Interests: Web Development, AI/ML, E-commerce, UI/UX Design<br/>
+              🛠️ Stack: React, Next.js, Vue.js, TypeScript, Tailwind CSS, Python, NestJS, LangChain, OpenAI<br/>
+              📚 Currently exploring advanced AI integrations and modern web frameworks
             </p>
 
             <p>
               <sub>
-                Add any “storybook-like” intro text here to match the screenshot style.
+                Always eager to learn new technologies and collaborate on exciting projects!
               </sub>
             </p>
           </td>
@@ -108,7 +106,7 @@
 
             <!-- Option A: Activity graph (closest to screenshot look) -->
             <img
-              src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9be9a8&line=39d353&point=2ea043&area=true&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveen1212&bg_color=0d1117&color=9be9a8&line=39d353&point=2ea043&area=true&hide_border=true"
               width="100%"
               alt="activity graph"
             />
@@ -136,22 +134,22 @@
             <!-- Repo cards (pin-style). Replace repo names. -->
             <p>
               <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=github_dark&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=uovt-ecommerce-completed&theme=github_dark&hide_border=true"
                 width="49%"
               />
               <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=github_dark&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=HR_Agent-&theme=github_dark&hide_border=true"
                 width="49%"
               />
             </p>
 
             <p>
               <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&theme=github_dark&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=Chat_Bot_Interface&theme=github_dark&hide_border=true"
                 width="49%"
               />
               <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&theme=github_dark&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=ART-portfolio&theme=github_dark&hide_border=true"
                 width="49%"
               />
             </p>
