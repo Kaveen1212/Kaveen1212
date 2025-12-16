@@ -49,7 +49,7 @@
           <strong>1,390 contributions in the last year</strong>
           <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
         </h3>
-          ![snake gif](https://github.com/kaveen1212/kaveen1212/blob/output/github-snake-dark.svg)
+          ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
       </div>
     </td>
   </tr>
