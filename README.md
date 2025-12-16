@@ -5,7 +5,7 @@
     </td>
     
   <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
-      <h2 style="color: #c9d1d9;">Howdy!</h2>
+      <h2 style="color: #c9d1d9;">Kaveen!</h2>
       <p style="color: #c9d1d9;">
         R&D and AI Engineer at CodeGen International, building intelligent, production-ready AI systems.
       </p>
