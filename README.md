@@ -95,29 +95,5 @@
         </table>
       </div>
     </td>
-
-
-  <td width="20%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
-      <h3 style="color: #c9d1d9;">12 Achievements</h3>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50" height="50" alt="Achievement 1" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50" height="50" alt="Achievement 2" />
-      </p>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50" height="50" alt="Achievement 3" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="50" height="50" alt="Achievement 4" />
-      </p>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50" height="50" alt="Achievement 5" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="50" height="50" alt="Achievement 6" />
-      </p>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="50" height="50" alt="Achievement 7" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="50" height="50" alt="Achievement 8" />
-      </p>
-      <p align="center">
-        <sub style="color: #8b949e;">💎 Send feedback</sub>
-      </p>
-    </td>
   </tr>
 </table>
