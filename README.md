@@ -99,10 +99,10 @@
   </tr>
 </table>
 
-    </td>
+  </td>
 
     <!-- RIGHT SIDEBAR -->
-    <td width="20%" valign="top">
+  <td width="20%" valign="top">
 
 <!-- 12 Achievements Card -->
 <table>
@@ -128,6 +128,6 @@
   </tr>
 </table>
 
-    </td>
+  </td>
   </tr>
 </table>
