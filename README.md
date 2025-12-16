@@ -29,7 +29,7 @@
 <table>
   <tr>
 
-  <td width="45%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+  <td width="35%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
       <h3 style="color: #c9d1d9;">Achievements</h3>
       <p align="center">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
