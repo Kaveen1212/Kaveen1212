@@ -1,12 +1,14 @@
+<!-- GitHub Profile README - Inspired by Chris Coyier's Design -->
+
 <table>
   <tr>
-  
-  <td width="30%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
+    <!-- LEFT COLUMN: Profile Image (matches Achievements width) -->
+    <td width="20%" valign="top" style="background-color: #0d1117; padding: 16px; border-radius: 6px;">
       <img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
     </td>
 
-    
-  <td width="75%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
+    <!-- RIGHT COLUMN: Howdy Section (matches Contributions width) -->
+  <td width="80%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-left: 8px;">
       <p><sub style="color: #8b949e;">chriscoyier / README.md</sub></p>
       <h2 style="color: #c9d1d9;">Howdy!</h2>
       <p style="color: #c9d1d9;">
@@ -25,11 +27,11 @@
 
 <br/>
 
-
+<!-- SECOND ROW: Two Columns (matching top row widths) -->
 <table>
   <tr>
-
-  <td width="25%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
+    <!-- LEFT SIDEBAR: Achievements (20% to match image) -->
+    <td width="20%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
       <h3 style="color: #c9d1d9;">Achievements</h3>
       <p align="center">
         <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
@@ -52,9 +54,10 @@
       </p>
     </td>
 
-  <td width="95%" valign="top">
-    
-  <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
+    <!-- RIGHT COLUMN: Contributions + Popular Repositories (80% to match Howdy) -->
+  <td width="80%" valign="top">
+      <!-- Contributions Section -->
+      <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
         <h3 style="color: #c9d1d9;">
           <strong>1,390 contributions in the last year</strong>
           <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
@@ -64,6 +67,7 @@
         </p>
       </div>
 
+      <!-- Popular Repositories Section -->
   <div style="background-color: #161b22; padding: 16px; border-radius: 6px;">
         <h3 style="color: #c9d1d9;">Popular repositories</h3>
         <table>
