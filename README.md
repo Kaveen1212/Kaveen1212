@@ -6,7 +6,7 @@
     <td width="10%" valign="top">
 
 <!-- Profile Image Card -->
-<img src="assets/ps kaveen.png" width="100%" alt="Profile Picture" style="border-radius: 8px;" />
+<img src="assets/ps kaveen.png" width="10%" alt="Profile Picture" style="border-radius: 8px;" />
 
 <br/><br/>
 
