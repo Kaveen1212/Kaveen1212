@@ -49,7 +49,7 @@
       </p>
     </td>
 
-  <td width="55%" valign="top">
+  <td width="75%" valign="top">
 
   <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
         <h3 style="color: #c9d1d9;">
