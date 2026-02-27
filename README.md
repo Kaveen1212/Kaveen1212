@@ -24,37 +24,6 @@
 
 <br/>
 
-<table>
-  <tr>
-    <!-- LEFT SIDEBAR: Achievements -->
-    <td width="25%" valign="top" style="background-color: #161b22; padding: 16px; border-radius: 6px;">
-      <h3 style="color: #c9d1d9;">Achievements</h3>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
-      </p>
-      <p align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" />
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" />
-      </p>
-      <p align="center">
-        <sub style="color: #8b949e;">💎 Send feedback</sub>
-      </p>
-    </td>
-
-  <td width="75%" valign="top">
-
-  <div style="background-color: #161b22; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
-        <h3 style="color: #c9d1d9;">
-          <strong>1,390 contributions in the last year</strong>
-          <span style="float: right;"><sub style="color: #8b949e;">2024</sub></span>
-          ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
-        </h3>
-      </div>
-    </td>
-  </tr>
-</table>
-
 <div style="background-color: #161b22; padding: 16px; border-radius: 6px;">
         <h3 style="color: #c9d1d9;">Popular repositories</h3>
         <table>
