@@ -54,4 +54,3 @@
           </tr>
         </table>
       </div>
-      ![snake gif](https://github.com/Kaveen1212/Kaveen1212/blob/output/github-snake-dark.svg)
