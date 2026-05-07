@@ -82,36 +82,36 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <p><b><a href="https://github.com/Kaveen1212/portfolio-agent-RAG">portfolio-agent-RAG</a></b></p>
-      <sub>Agentic RAG over my portfolio — LangChain &amp; LangGraph.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/portfolio-agent-RAG">portfolio-agent-RAG</a></h4>
+      <p>Agentic RAG over my portfolio — LangChain &amp; LangGraph.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/portfolio-agent-RAG?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/portfolio-agent-RAG?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
     <td valign="top" width="33%">
-      <p><b><a href="https://github.com/Kaveen1212/car-selling-voice-agent">Auto&nbsp;Care&nbsp;Voice&nbsp;Agent</a></b></p>
-      <sub>Voice-driven AI agent for car-selling conversations.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/car-selling-voice-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/car-selling-voice-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/car-selling-voice-agent">Auto&nbsp;Care&nbsp;Voice&nbsp;Agent</a></h4>
+      <p>Voice-driven AI agent for car-selling conversations.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/car-selling-voice-agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/car-selling-voice-agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
     <td valign="top" width="34%">
-      <p><b><a href="https://github.com/Kaveen1212/Agro-Agent">Agronomist&nbsp;AI&nbsp;Agent</a></b></p>
-      <sub>Conversational agent helping farmers with crop guidance.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Agro-Agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Agro-Agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/Agro-Agent">Agronomist&nbsp;AI&nbsp;Agent</a></h4>
+      <p>Conversational agent helping farmers with crop guidance.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Agro-Agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Agro-Agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <p><b><a href="https://github.com/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System">Betel-Leaf&nbsp;Disease&nbsp;CNN</a></b></p>
-      <sub>Deep-learning CNN classifier for betel-leaf diseases.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System">Betel-Leaf&nbsp;Disease&nbsp;CNN</a></h4>
+      <p>Deep-learning CNN classifier for betel-leaf diseases.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
     <td valign="top" width="33%">
-      <p><b><a href="https://github.com/Kaveen1212/rise-marketing-agent">rise-marketing-agent</a></b></p>
-      <sub>AI marketing agent built with LangGraph.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/rise-marketing-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/rise-marketing-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/rise-marketing-agent">rise-marketing-agent</a></h4>
+      <p>AI marketing agent built with LangGraph.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/rise-marketing-agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/rise-marketing-agent?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
     <td valign="top" width="34%">
-      <p><b><a href="https://github.com/Kaveen1212/kernel-monitoring-agent-langgraph">kernel-monitoring-agent</a></b></p>
-      <sub>System-kernel monitoring agent with LangGraph.</sub>
-      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
+      <h4><a href="https://github.com/Kaveen1212/kernel-monitoring-agent-langgraph">kernel-monitoring-agent</a></h4>
+      <p>System-kernel monitoring agent with LangGraph.</p>
+      <p>★ <img src="https://img.shields.io/github/stars/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat&label=&color=21262d&labelColor=21262d" align="absmiddle" /></p>
     </td>
   </tr>
 </table>
@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/github/stars/Kaveen1212?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
         <img src="https://img.shields.io/badge/repos-45-21262d?style=flat-square&labelColor=21262d" />
       </p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveen1212&hide_border=true&background=0D1117&stroke=21262d&ring=8b949e&fire=8b949e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Kaveen1212&theme=dark&hide_border=true&background=0D1117&stroke=21262d&ring=8b949e&fire=8b949e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" width="100%" />
     </td>
     <td width="45%" valign="top">
       <h3>Top languages</h3>
