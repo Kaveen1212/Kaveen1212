@@ -1,10 +1,11 @@
 <!--
   GitHub profile README for @Kaveen1212
-  Layout mirrors the GitHub Overview tab. All visuals are pulled live:
+  Layout mirrors the GitHub Overview tab. All visuals are pulled live from
+  reliable services that don't break:
     • achievement badges  → github.githubassets.com (GitHub's own CDN)
-    • contribution grid   → ghchart.rshah.org (renders like the native graph)
-    • popular repo cards  → github-readme-stats.vercel.app (live stars/forks/lang)
-    • stats / top langs   → github-readme-stats.vercel.app (live)
+    • contribution grid   → ghchart.rshah.org
+    • star / fork counts  → img.shields.io/github/* (always works, no rate limit issues)
+    • streak stats        → github-readme-streak-stats.herokuapp.com
   The only local asset is assets/ps5.png (the profile photo).
 -->
 
@@ -12,7 +13,7 @@
 <table>
   <tr>
     <td width="34%" valign="top">
-      <img src="assets/kaveen.jpeg" width="100%" alt="Kaveen Deshapriya" />
+      <img src="assets/ps5.png" width="100%" alt="Kaveen Deshapriya" />
     </td>
     <td width="66%" valign="top">
       <sub>Kaveen1212 / <b>README.md</b></sub>
@@ -38,16 +39,16 @@
       </p>
       <p>
         <a href="https://kaveendeshapriya.qzz.io/">
-          <img src="https://img.shields.io/badge/Portfolio-kaveendeshapriya.qzz.io-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-kaveendeshapriya.qzz.io-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
         </a>
         <a href="https://www.linkedin.com/in/kaveen-deshapriya-bd006153/">
-          <img src="https://img.shields.io/badge/LinkedIn-Kaveen_Deshapriya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-Kaveen_Deshapriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="mailto:kaveencdeshapriya@gmail.com">
-          <img src="https://img.shields.io/badge/Email-kaveencdeshapriya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://img.shields.io/badge/Email-kaveencdeshapriya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
         <a href="https://codegen.com/">
-          <img src="https://img.shields.io/badge/CodeGen-International-0c2340?style=flat-square&logo=googlecloud&logoColor=white" alt="CodeGen" />
+          <img src="https://img.shields.io/badge/CodeGen-International-0c2340?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CodeGen" />
         </a>
       </p>
     </td>
@@ -60,21 +61,21 @@
 <table>
   <tr>
     <td width="38%" valign="top">
-      <h3>Achievements</h3>
+      <h3>🏆 Achievements</h3>
       <table>
         <tr>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" /><br/><sub>Pull Shark</sub></td>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" /><br/><sub>Quickdraw</sub></td>
+          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" /><br/><sub><b>Pull Shark</b></sub></td>
+          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" /><br/><sub><b>Quickdraw</b></sub></td>
         </tr>
         <tr>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" /><br/><sub>Pair Extraordinaire</sub></td>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" /><br/><sub>YOLO</sub></td>
+          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" /><br/><sub><b>Pair Extraordinaire</b></sub></td>
+          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" /><br/><sub><b>YOLO</b></sub></td>
         </tr>
       </table>
     </td>
     <td width="62%" valign="top">
-      <h3>Contributions in the last year</h3>
-      <img src="https://ghchart.rshah.org/40c463/Kaveen1212" width="100%" alt="Contribution graph for Kaveen1212" />
+      <h3>📈 Contributions in the last year</h3>
+      <img src="https://ghchart.rshah.org/006d32/Kaveen1212" width="100%" alt="Contribution graph for Kaveen1212" />
       <p align="right"><sub>Live data — pulled from GitHub on every page load.</sub></p>
     </td>
   </tr>
@@ -82,75 +83,102 @@
 
 <br/>
 
-<!-- ─────────── Popular repositories (matched to the bio) ─────────── -->
+<!-- ─────────── Popular repositories (custom cards w/ live shields.io badges) ─────────── -->
 <h3>📌 Popular repositories</h3>
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/portfolio-agent-RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=portfolio-agent-RAG&theme=tokyonight&hide_border=true" alt="portfolio-agent-RAG — Agentic RAG over my portfolio" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>📁 <a href="https://github.com/Kaveen1212/portfolio-agent-RAG">portfolio-agent-RAG</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>Agentic RAG over my portfolio — LangChain &amp; LangGraph.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/portfolio-agent-RAG?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/portfolio-agent-RAG?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/car-selling-voice-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=car-selling-voice-agent&theme=tokyonight&hide_border=true" alt="Auto Care Voice Agent" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/Agro-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=Agro-Agent&theme=tokyonight&hide_border=true" alt="Agronomist AI Agent" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=Intelligent-Betel-Leaf-Disease-Classification-System&theme=tokyonight&hide_border=true" alt="Betel-Leaf disease CNN classifier" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>🚗 <a href="https://github.com/Kaveen1212/car-selling-voice-agent">Auto&nbsp;Care&nbsp;Voice&nbsp;Agent</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>Voice-driven AI agent for car-selling conversations.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/car-selling-voice-agent?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/car-selling-voice-agent?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/rise-marketing-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=rise-marketing-agent&theme=tokyonight&hide_border=true" alt="rise-marketing-agent" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>🌾 <a href="https://github.com/Kaveen1212/Agro-Agent">Agronomist&nbsp;AI&nbsp;Agent</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>Conversational agent helping farmers with crop guidance.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/Agro-Agent?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/Agro-Agent?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Kaveen1212/kernel-monitoring-agent-langgraph">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaveen1212&repo=kernel-monitoring-agent-langgraph&theme=tokyonight&hide_border=true" alt="kernel-monitoring-agent-langgraph" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>🍃 <a href="https://github.com/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System">Betel-Leaf&nbsp;Disease&nbsp;CNN</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>Deep-learning CNN classifier for betel-leaf diseases.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📣 <a href="https://github.com/Kaveen1212/rise-marketing-agent">rise-marketing-agent</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>AI marketing agent built with LangGraph.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/rise-marketing-agent?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/rise-marketing-agent?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🖥️ <a href="https://github.com/Kaveen1212/kernel-monitoring-agent-langgraph">kernel-monitoring-agent</a> &nbsp;<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public"/></h4>
+      <sub>System-kernel monitoring agent with LangGraph.</sub>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&logo=github&label=%E2%98%85&color=eac54f" />
+        <img src="https://img.shields.io/github/forks/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&logo=github&label=%E2%9F%82&color=58a6ff" />
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ─────────── Stats + Top languages (real numbers from GitHub API) ─────────── -->
+<!-- ─────────── GitHub stats + Top languages (rebuilt for reliability) ─────────── -->
 <table>
   <tr>
     <td width="55%" valign="top">
       <h3>📊 GitHub stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaveen1212&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Kaveen1212's GitHub stats" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveen1212&theme=tokyonight&hide_border=true" alt="streak stats" />
+      <p>
+        <img src="https://img.shields.io/github/followers/Kaveen1212?style=for-the-badge&logo=github&label=Followers&color=58a6ff" />
+        <img src="https://img.shields.io/github/stars/Kaveen1212?style=for-the-badge&logo=github&label=Stars&color=eac54f" />
+        <img src="https://img.shields.io/badge/Public%20Repos-45-238636?style=for-the-badge&logo=github" />
+      </p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveen1212&theme=tokyonight&hide_border=true&background=0D1117&ring=39D353&fire=FF6F00&currStreakLabel=39D353" alt="streak stats" width="100%" />
     </td>
     <td width="45%" valign="top">
       <h3>🛠️ Top languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveen1212&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages" />
-      <br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+      </p>
       <h3>🧰 Toolbox</h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       </p>
     </td>
   </tr>
