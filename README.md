@@ -84,58 +84,34 @@
     <td valign="top" width="33%">
       <p><b><a href="https://github.com/Kaveen1212/portfolio-agent-RAG">portfolio-agent-RAG</a></b></p>
       <sub>Agentic RAG over my portfolio — LangChain &amp; LangGraph.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/portfolio-agent-RAG?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
     <td valign="top" width="33%">
       <p><b><a href="https://github.com/Kaveen1212/car-selling-voice-agent">Auto&nbsp;Care&nbsp;Voice&nbsp;Agent</a></b></p>
       <sub>Voice-driven AI agent for car-selling conversations.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/car-selling-voice-agent?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/car-selling-voice-agent?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/car-selling-voice-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/car-selling-voice-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
     <td valign="top" width="34%">
       <p><b><a href="https://github.com/Kaveen1212/Agro-Agent">Agronomist&nbsp;AI&nbsp;Agent</a></b></p>
       <sub>Conversational agent helping farmers with crop guidance.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/Agro-Agent?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/Agro-Agent?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Agro-Agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Agro-Agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
       <p><b><a href="https://github.com/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System">Betel-Leaf&nbsp;Disease&nbsp;CNN</a></b></p>
       <sub>Deep-learning CNN classifier for betel-leaf diseases.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter-21262d?style=flat-square&logo=jupyter&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/Intelligent-Betel-Leaf-Disease-Classification-System?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
     <td valign="top" width="33%">
       <p><b><a href="https://github.com/Kaveen1212/rise-marketing-agent">rise-marketing-agent</a></b></p>
       <sub>AI marketing agent built with LangGraph.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/rise-marketing-agent?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/rise-marketing-agent?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/rise-marketing-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/rise-marketing-agent?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
     <td valign="top" width="34%">
       <p><b><a href="https://github.com/Kaveen1212/kernel-monitoring-agent-langgraph">kernel-monitoring-agent</a></b></p>
       <sub>System-kernel monitoring agent with LangGraph.</sub>
-      <p>
-        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=8b949e" />
-        <img src="https://img.shields.io/github/stars/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=stars&labelColor=21262d&color=21262d" />
-        <img src="https://img.shields.io/github/forks/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=forks&labelColor=21262d&color=21262d" />
-      </p>
+      <p><sub>★ <img src="https://img.shields.io/github/stars/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /> &nbsp;&nbsp; ⑂ <img src="https://img.shields.io/github/forks/Kaveen1212/kernel-monitoring-agent-langgraph?style=flat-square&label=&labelColor=0d1117&color=0d1117" align="absmiddle" /></sub></p>
     </td>
   </tr>
 </table>
