@@ -44,12 +44,6 @@
         <a href="https://www.linkedin.com/in/kaveen-deshapriya-bd006153/">
           <img src="https://img.shields.io/badge/LinkedIn-Kaveen_Deshapriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="mailto:kaveencdeshapriya@gmail.com">
-          <img src="https://img.shields.io/badge/Email-kaveencdeshapriya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://codegen.com/">
-          <img src="https://img.shields.io/badge/CodeGen-International-0c2340?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CodeGen" />
-        </a>
       </p>
     </td>
   </tr>
@@ -75,7 +69,7 @@
     </td>
     <td width="62%" valign="top">
       <h3>📈 Contributions in the last year</h3>
-      <img src="https://ghchart.rshah.org/006d32/Kaveen1212" width="100%" alt="Contribution graph for Kaveen1212" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveen1212&theme=github-compact&hide_border=true&area=true&hide_title=true&radius=10&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area_color=39d353" width="100%" alt="Contribution graph for Kaveen1212" />
       <p align="right"><sub>Live data — pulled from GitHub on every page load.</sub></p>
     </td>
   </tr>
