@@ -19,7 +19,7 @@
       <sub>Kaveen1212 / <b>README.md</b></sub>
       <h1>Howdy! 👋</h1>
       <p>
-        <b>R&amp;D and AI Engineer at <a href="https://codegen.com/">CodeGen International</a></b>,
+        <b>R&amp;D and AI Engineer at <a href="https://codegen.co.uk/">CodeGen International</a></b>,
         building intelligent, production-ready AI systems.
       </p>
       <p>
@@ -56,16 +56,15 @@
   <tr>
     <td width="38%" valign="top">
       <h3>🏆 Achievements</h3>
-      <table>
-        <tr>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" /><br/><sub><b>Pull Shark</b></sub></td>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" /><br/><sub><b>Quickdraw</b></sub></td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" /><br/><sub><b>Pair Extraordinaire</b></sub></td>
-          <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" /><br/><sub><b>YOLO</b></sub></td>
-        </tr>
-      </table>
+      <p align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" />
+        &nbsp;
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" />
+        <br/><br/>
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" />
+        &nbsp;
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" />
+      </p>
     </td>
     <td width="62%" valign="top">
       <h3>📈 Contributions in the last year</h3>
